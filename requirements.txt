@@ -1,0 +1,3 @@
+!pip install -q tensorflow keras scikit-learn matplotlib seaborn ptflops
+!pip install thop
+!pip install --upgrade gdown
